@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# How to set up a FiveM-Server
+# How to set up a FiveM-Server (TXAdmin)
 
 1. Register on our client panel at [https://client.pihosting.cloud/](https://client.pihosting.cloud/)
 2. Verify your Discord account at [https://client.pihosting.cloud/profile](https://client.pihosting.cloud/profile)
