@@ -22,7 +22,7 @@ sidebar_position: 1
 
 <img src="https://user-images.githubusercontent.com/82435316/219951023-e228b8d8-6495-47fc-9566-1f48e4bf947c.png" alt="Copying" width="500"/>
 
-<img src="https://user-images.githubusercontent.com/82435316/219951109-f1ca2af2-fee6-42f8-a06e-83603497ea43.png" alt="HeidiSQL" width=500"/>
+<img src="https://user-images.githubusercontent.com/82435316/219951109-f1ca2af2-fee6-42f8-a06e-83603497ea43.png" alt="HeidiSQL" width="500"/>
 
 7. Copy the endpoint and paste it in the Hostname field in HeidiSQL and remove the :3306 at the end like shown in the picture below
 
